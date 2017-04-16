@@ -1,0 +1,43 @@
+{
+  "name": "subenv",
+  "version": "0.0.0",
+  "description": "Get all the env variables with a specific prefix",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "mos t && standard && tape test.js",
+    "md": "mos"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zkochan/subenv.git"
+  },
+  "keywords": [
+    "env"
+  ],
+  "author": {
+    "name": "Zoltan Kochan",
+    "url": "https://www.kochan.io"
+  },
+  "mos": {
+    "plugins": [
+      "readme"
+    ],
+    "installation": {
+      "useShortAlias": true
+    }
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zkochan/subenv/issues"
+  },
+  "homepage": "https://github.com/zkochan/subenv#readme",
+  "devDependencies": {
+    "mos": "^2.0.0-alpha.3",
+    "mos-plugin-readme": "^1.0.4",
+    "standard": "^10.0.2",
+    "tape": "^4.6.3"
+  }
+}
