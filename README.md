@@ -1,5 +1,7 @@
 # subenv
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zkochan/subenv.svg)](https://greenkeeper.io/)
+
 > Get all the env variables with a specific prefix
 
 <!--@shields('npm', 'travis')-->
