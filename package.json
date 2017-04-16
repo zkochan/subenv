@@ -1,7 +1,7 @@
 {
   "name": "subenv",
   "version": "0.0.0",
-  "description": "Get all the env variables with a specific prefix",
+  "description": "Returns all the environment variables that are prefixed with the specified value",
   "main": "index.js",
   "files": [
     "index.js"

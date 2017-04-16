@@ -1,6 +1,6 @@
 # subenv
 
-> Get all the env variables with a specific prefix
+> Returns all the environment variables that are prefixed with the specified value
 
 <!--@shields('npm', 'travis')-->
 [![npm version](https://img.shields.io/npm/v/subenv.svg)](https://www.npmjs.com/package/subenv) [![Build Status](https://img.shields.io/travis/zkochan/subenv/master.svg)](https://travis-ci.org/zkochan/subenv)
